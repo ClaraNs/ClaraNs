@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Oi, eu sou a Ana Clara! 👾</h1>
-  <p>👩‍💻 Cientista da Computação | 📚 Estudando Programação e Algoritmos | 💻 Desenvolvedora </p>
+  <h1>👋 Hi, I'm Ana Clara! 👾</h1>
+  <p>👩‍💻 Computer Scientist | 📚 Studying Programming and Algorithms | 💻 Developer </p>
 </div>
 
 <div align="center">
